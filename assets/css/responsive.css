@@ -1,0 +1,1287 @@
+@media(max-width:1900px)
+{
+    .desktop-menu nav .collapse-menu
+    {
+        width: 80%;
+    }
+    .requestService-section .border-button
+    {
+        float: right;
+        margin-right: 31px;
+    }
+}
+@media(max-width:1600px)
+{
+    .desktop-menu nav .collapse-menu
+    {
+        width: 80%;
+    }
+    .right-image img
+    {
+        height: 609px;        
+    }
+}
+@media(max-width:1536px)
+{
+    .right-image img
+    {
+        height: 609px;
+    }
+}
+@media(max-width:1400px)
+{
+    section.blackbanner-section .black-slider .item h5
+    {
+        font-size: 55px;
+    }
+    .right-image .mobileimg1
+    {
+        top: -110px;
+    }
+}
+@media(max-width:1366px)
+{
+    .desktop-menu nav .collapse-menu
+    {
+        width: 85%;
+    }
+    .banner-content h1
+    {
+        font-size: 53px;
+    }
+    .title
+    {
+        font-size: 50px;
+    }
+    .sub-heading
+    {
+        font-size: 16px;
+    }
+    .successstories-wrapper
+    {
+        margin:20px 79px 0 0;
+    }
+    .successstories-body p
+    {
+        font-size: 15px;
+    }
+    .sub-heading2
+    {
+        font-size: 30px;
+    }
+    .counterdiv-secondcontent
+    {
+        padding: 0px 20px;
+    }
+    .counterdiv-thirdcontent 
+    {
+        padding: 0px 24px;
+    }
+    .service-row p
+    {
+        font-size: 20px;
+    }
+    section.blackbanner-section .black-slider .item h5
+    {
+        font-size: 52px;
+    }
+    .industry-box
+    {
+        padding:20px;
+    }
+    .industry-content p
+    {
+        font-size: 18px;
+    }
+    .industry-content h4
+    {
+        font-size: 30px;
+    }
+    .industry-buttons .button
+    {
+        margin-right: 6px;
+    }
+    .industry-buttons .button p
+    {
+        font-size: 13px;
+    }
+    .blog-content h3
+    {
+        font-size: 22px;
+    }
+    .lightgray-tab .nav-item .nav-link
+    {
+        font-size: 14px;
+    }
+    .lightgray-content
+    {
+        width: 1074px;
+    }
+    .lightgray-tab .nav-item .nav-link.active:after
+    {
+        bottom:-15px;
+    }
+    section.cta-banner2 .absolute .shape1
+    {
+        width: 526px;
+        height: 226px;
+    }
+}
+@media(max-width:1280px)
+{
+    section.blackbanner-section .black-slider .item h5
+    {
+        font-size: 48px;
+    }
+}
+@media(max-width:1024px)
+{
+    .desktop-menu ul li
+    {
+        margin-right: 23px;
+    }
+    .desktop-menu ul li a
+    {
+        font-size: 22px;
+    }
+    .banner-content h1 
+    {
+        font-size: 50px;
+    }
+    .right-image img
+    {
+        top: -17px;
+        height: 530px;
+    }
+    .form ::placeholder
+    {
+        font-size: 17px;
+    }
+    .submit
+    {
+        font-size: 22px;
+        height:42px;
+    }
+    .submit:before
+    {
+        top:0px;
+    }
+    .service-column
+    {
+     margin:28px 0px 0;   
+    }
+    .service-body
+    {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+    .counterdiv-secondcontent 
+    {
+        padding: 0;
+    }
+    .counterdiv-thirdcontent 
+    {
+        padding: 0;
+    }
+    .counterdiv-content.counterdiv-fourthcontent
+    {
+        padding: 0;
+    }
+    .successstories-body p 
+    {
+        font-size: 13px;
+    }
+    .industry-box 
+    {
+        margin: 0 0 24px;
+    }
+    .blog-bar h6
+    {
+        font-size: 16px;
+    }
+    .blog-bar p
+    {
+        font-size: 16px;
+    }
+    .requestService-content p
+    {
+        font-size: 28px;
+    }
+    .black-slider .item h5 
+    {
+        font-size: 34px;
+    }
+}
+@media(max-width:768px)
+{
+    .toggle
+    {
+        display: block;
+    }
+    .toggle i
+    {
+        font-size: 25px;
+    }
+    .desktop-menu ul
+    {
+        width: 100%;
+    }
+    .desktop-menu ul li
+    {
+        display: block;
+        margin-bottom: 7px;
+    }
+    .desktop-menu ul li a
+    {
+        font-size: 16px;
+    }
+    .desktop-menu ul li a
+    {
+        padding: 0px;
+    }
+    .desktop-menu ul li a:hover:before
+    {
+        opacity: 0;
+    }
+    .desktop-menu ul li .getstarted:before
+    {
+        width: 136px;
+        height: 35px;
+    }
+    .desktop-menu ul li .getstarted a
+    {
+        font-size: 16px;
+    }
+    .desktop-menu nav .collapse-menu
+    {
+        display: block;
+        overflow: hidden;
+        height:0;
+        transition: height 0.3s ease;
+        background: #fff;
+        width: 100%;
+        padding: 0px 15px;
+    }
+    .desktop-menu nav .collapse-menu.show
+    {
+        height:225px;
+    }
+    .desktop-menu ul li .getstarted 
+    {
+        margin-top: 20px;
+    }
+    section.homebanner
+    {
+        height:610px;
+    }
+    .absolute-center
+    {
+        top: 53%;
+    }
+    .banner-wrapper
+    {
+        height:450px;
+    }
+    .banner-content
+    {
+        margin-left: 20px;
+    }
+    .banner-content h1 
+    {
+        font-size: 53px;
+    }
+    section.homebanner .banner-wrapper .absolute-center1 
+    {
+        top: 51%;
+        left: 58%;
+    }
+    .submit
+    {
+        font-size: 15px;
+        height: 39px;
+    }
+    .submit::before
+    {
+        height: 38px;
+        top: 5px;
+    }
+    .form ::placeholder
+    {
+        font-size: 13px;
+    }
+    .form-field
+    {
+        height: 60px;
+        width: 80%;
+    }
+    .input-field .pencil 
+    {
+        top: 12px;
+        width: 20px;
+        height: 20px;
+    }
+    .form input
+    {
+        font-size: 13px;
+        padding: 15px 0 3px 51px;
+    }
+    .display-none1
+    {
+        display: none;
+    }
+    .title
+    {
+        font-size: 38px;
+    }
+    .sub-heading 
+    {
+        font-size: 19px;
+    }
+    .border-button a
+    {
+        font-size: 23px;
+        padding: 12px 25px;
+    }
+    .border-button a:before
+    {
+        height: 51px;
+        top:9px;
+    }
+    .service-number h2
+    {
+        font-size: 60px;
+    }
+    .service-header img 
+    {
+        width: 40px;
+    }
+    .explore a
+    {
+        font-size: 16px;
+    }
+    .casestudy-button 
+    {
+        float: right;
+    }
+    .counterdiv-content
+    {
+     border-right:0px;   
+    }
+    .counterdiv-content
+    {
+        text-align: left;
+    }
+    .counterdiv-secondcontent 
+    {
+        padding: 0px 0px;
+    }
+    .counterdiv-thirdcontent 
+    {
+        text-align: left;
+        padding: 0px 0px;
+    }
+    .counterdiv-content.counterdiv-fourthcontent
+    {
+        text-align: left;
+        padding: 0px 0px;
+    }
+    .counterdiv-content h4
+    {
+        font-size: 25px;
+    }
+    .services-section
+    {
+        padding-bottom: 40px;
+    }
+    section.successstories-section
+    {
+        padding:50px 0px 25px;
+    }
+    .successstories-wrapper.successstories-secondwrapper 
+    {
+        margin-top: 30px;
+    }
+    .successstories-wrapper.successstories-secondwrapper:before
+    {
+        display: none;
+    }
+    .successstories-content .successstories-text
+    {
+        font-size: 15px;
+    }
+    .successstories-body p 
+    {
+        font-size: 13px;
+    }
+    section.journeysuccess-section
+    {
+        padding-bottom:25px;
+    }
+    .journeysuccess-section .service-row p
+    {
+        font-size: 16px;
+    }
+    .journeysuccess-counter h4
+    {
+        font-size: 30px;
+    }
+    .journeysuccess-counter p
+    {
+        font-size: 16px;
+    }
+    .black-slider .item h5 
+    {
+        font-size: 20px;
+    }
+    section.processdevelopment-section
+    {
+        margin-top:50px;
+    }
+    .position-sticky
+    {
+        height:26.2rem;
+    }
+    .scroller-list .scroller-content h3
+    {
+        font-size: 40px;
+    }
+    .pb-36 
+    {
+        padding-bottom: 5rem;
+    }
+    .scroller-list .scroller-content p
+    {
+        font-size: 16px;
+    }
+    .scroller-item
+    {
+        width: 277px;
+        height: 400px;        
+    }
+    .scroller-item img
+    {
+        width: 277px;
+        height: 400px;
+    }
+    section.technologies-section
+    {
+        padding:50px 0 39px;
+    }
+    section.technologies-section .service-row p
+    {
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+    .technology-tabs
+    {
+        flex-wrap: wrap;
+    }
+    .technology-tabs
+    {
+        border-top: 0px;
+        margin-top: 0px;
+    }
+    .technology-tabs:before
+    {
+        display: none;
+    }
+    .technology-tabs .nav
+    {
+        margin-bottom: 20px;
+    }
+    .requestService-banner
+    {
+        padding: 22px 0px 24px;
+    }
+    .requestService-banner .border-button
+    {
+        margin-top:0px;
+        float: right;
+    }
+    .requestService-content
+    {
+        margin-top: 6px;
+    }
+    .requestService-content p
+    {
+        padding-left:30px;
+        font-size: 20px;
+    }
+    .border-button
+    {
+        margin-left: 0;
+        margin-top: 19px;
+    }
+    .requestService-section
+    {
+        padding:0px 0 60px;
+    }
+    .requestService-section .border-button a:before
+    {
+        height: 51px;
+        top: 8px;
+    }
+    .service-row p 
+    {
+        font-size: 20px;
+    }
+    .logos-item img 
+    {
+        max-width: 128px;
+        margin-right: 25px;
+    }
+    .testimonial-column
+    {
+        padding: 22px;
+    }
+    .testimonial-body p
+    {
+        font-size: 16px;
+    }
+    section.industry-section
+    {
+        padding:39px 0 36px;
+    }
+    .custom-banner 
+    {
+        padding: 50px 20px 0;
+    }
+    .cta-banner-image img
+    {
+        position: relative;
+        max-width: 250px;
+    }
+    .cta-banner2 .border-button a:before
+    {
+        height: 52px;
+    }
+    .glow3
+    {
+        display: none;
+    }
+    .glow4
+    {
+        display: none;
+    }
+    .glow5
+    {
+        display: none;
+    }
+    .glow6
+    {
+        display: none;
+    }
+    .glow7
+    {
+        display: none;
+    }
+    .glow8
+    {
+        display: none;
+    }
+    .glow9
+    {
+        display: none;
+    }
+    .glow10
+    {
+        display: none;
+    }
+    .glow11
+    {
+        display: none;
+    }
+    .glow12
+    {
+        display: none;
+    }
+    .glow13
+    {
+        display: none;
+    }
+    section
+    {
+        padding:50px 0;
+    }
+    section.blog-section
+    {
+        padding-bottom:12px;
+    }
+    .blog-bar h6
+    {
+        font-size: 18px;
+    }
+    .blog-content h3 
+    {
+        font-size: 20px;
+    }
+    .blog-bar p
+    {
+        font-size: 16px;
+    }    
+    .blog-column.blog-columnsecond
+    {
+        margin:15px 0 15px;
+        padding: 25px;
+    }
+    .blog-column.blog-columnthird
+    {
+        margin:15px 0 15px;
+        padding: 25px;
+    }
+    .footer-logo
+    {
+        margin-bottom:34px;
+    }
+    .footer-logo h4
+    {
+        text-align: left;
+    }
+    .footer-logo p
+    {
+        text-align: left;
+    }
+    .footer-list2 ul li a
+    {
+        font-size: 12px;
+    }
+    .lightgray-content 
+    {
+        width: 100%;
+    }
+    .lightgray-tab .nav-item
+    {
+        width: 100%;
+        margin-bottom:20px;
+    }
+    .lightgray-tab .nav-item:last-child
+    {
+        margin-bottom:0px;
+    }
+    .lightgray-tab .nav-item .nav-link
+    {
+        width: 100%;
+    }
+    .gamedevelopment-img img
+    {
+        width: 100%;
+        height: 100%;
+    }
+    .counter-div
+    {
+        margin-bottom:20px;
+    }
+    .counter-icon img 
+    {
+        max-width: 50px;
+        min-width: 50px;
+        height: 50px;
+    }
+    .counter-detail .number
+    {
+        font-size: 40px;
+    }
+    .counter-detail .text
+    {
+        font-size: 18px;
+    }
+    section.blackbanner-section .black-slider .item h5 
+    {
+        font-size: 20px;
+    }
+}
+@media(max-width:576px)
+{
+    .toggle
+    {
+        display: block;
+    }
+    .toggle i
+    {
+        font-size: 25px;
+    }
+    .desktop-menu ul
+    {
+        width: 100%;
+    }
+    .desktop-menu ul li
+    {
+        display: block;
+        margin-bottom: 7px;
+    }
+    .desktop-menu ul li a
+    {
+        font-size: 16px;
+    }
+    .desktop-menu ul li a
+    {
+        padding: 0px;
+    }
+    .desktop-menu ul li a:hover:before
+    {
+        opacity: 0;
+    }
+    .desktop-menu ul li .getstarted:before
+    {
+        width: 136px;
+        height: 35px;
+    }
+    .desktop-menu ul li .getstarted a
+    {
+        font-size: 16px;
+    }
+    .desktop-menu nav .collapse-menu
+    {
+        display: block;
+        overflow: hidden;
+        height:0;
+        transition: height 0.3s ease;
+        background: #fff;
+        width: 100%;
+        padding: 0px 15px;
+    }
+    .desktop-menu nav .collapse-menu.show
+    {
+        height:225px;
+    }
+    .desktop-menu ul li .getstarted 
+    {
+        margin-top: 20px;
+    }
+    section.homebanner
+    {
+        height:610px;
+    }
+    .absolute-center
+    {
+        top: 53%;
+    }
+    .banner-wrapper
+    {
+        height:450px;
+    }
+    .banner-content
+    {
+        margin-left: 20px;
+    }
+    .banner-content h1 
+    {
+        font-size: 37px;
+    }
+    section.homebanner .banner-wrapper .absolute-center1
+    {
+        top:53%;
+        left: 47%;
+    }
+    .submit
+    {
+        font-size: 15px;
+        height: 39px;
+    }
+    .submit::before
+    {
+        height: 38px;
+        top: 5px;
+    }
+    .form ::placeholder
+    {
+        font-size: 13px;
+    }
+    .form-field
+    {
+        height: 60px;
+        width: 100%;
+    }
+    .input-field .pencil 
+    {
+        top: 12px;
+        width: 20px;
+        height: 20px;
+    }
+    .form input
+    {
+        font-size: 13px;
+        padding: 15px 0 3px 51px;
+    }
+    .display-none1
+    {
+        display: none;
+    }
+    .title
+    {
+        font-size: 29px;
+    }
+    .border-button a
+    {
+        font-size: 16px;
+        padding:9px 24px;
+    }
+    .border-button a:before
+    {
+        height: 35px;
+        top:9px;
+    }
+    .service-number h2
+    {
+        font-size: 60px;
+    }
+    .service-header img 
+    {
+        width: 40px;
+    }
+    .explore a
+    {
+        font-size: 16px;
+    }
+    .casestudy-button 
+    {
+        float: left;
+    }
+    .counterdiv-content
+    {
+     border-right:0px;   
+    }
+    .counterdiv-content
+    {
+        text-align: left;
+    }
+    .counterdiv-secondcontent 
+    {
+        padding: 0px 0px;
+    }
+    .counterdiv-thirdcontent 
+    {
+        text-align: left;
+        padding: 0px 0px;
+    }
+    .counterdiv-content.counterdiv-fourthcontent
+    {
+        text-align: left;
+        padding: 0px 0px;
+    }
+    .counterdiv-content h4
+    {
+        font-size: 25px;
+    }
+    .services-section
+    {
+        padding-bottom: 40px;
+    }
+    .service-column
+    {
+        margin: 0px 0 20px;
+    }
+    section.successstories-section
+    {
+        padding:50px 0px 25px;
+    }
+    .successstories-wrapper.successstories-secondwrapper 
+    {
+        margin-top: 30px;
+    }
+    .successstories-wrapper.successstories-secondwrapper:before
+    {
+        display: none;
+    }
+    .successstories-body p 
+    {
+        font-size: 14px;
+    }
+    .successstories-wrapper
+    {
+        margin:20px 0px 0 0;
+    }
+    section.journeysuccess-section
+    {
+        padding-bottom:25px;
+    }
+    .successstories-text 
+    {
+        margin-bottom: 30px;
+    }
+    .journeysuccess-section .service-row p
+    {
+        font-size: 16px;
+    }
+    .journeysuccess-counter h4
+    {
+        font-size: 30px;
+    }
+    .journeysuccess-counter p
+    {
+        font-size: 12px;
+    }
+    .black-slider .item h5 
+    {
+        font-size: 27px;
+    }
+    section.processdevelopment-section
+    {
+        margin-top:50px;
+    }
+    .position-sticky
+    {
+        height:26.2rem;
+    }
+    .scroller-list .scroller-content h3
+    {
+        font-size: 40px;
+    }
+    .pb-36 
+    {
+        padding-bottom: 5rem;
+    }
+    .scroller-list .scroller-content p
+    {
+        font-size: 16px;
+    }
+    .scroller-item img
+    {
+        width: 349px;
+        height: 407px;
+    }
+    section.technologies-section
+    {
+        padding:50px 0 39px;
+    }
+    section.technologies-section .service-row p
+    {
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+    .technology-tabs
+    {
+        flex-wrap: wrap;
+    }
+    .technology-tabs
+    {
+        border-top: 0px;
+        margin-top: 0;
+    }
+    .technology-tabs:before
+    {
+        display: none;
+    }
+    .technology-tabs .nav
+    {
+        margin-bottom: 20px;
+    }
+    .requestService-banner
+    {
+        padding:17px 0px 24px;
+    }
+    .requestService-content p
+    {
+        padding-left:30px;
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+    .border-button
+    {
+        margin-left: 28px;
+        margin-top: 19px;
+    }
+    .requestService-section
+    {
+        padding:0px 0 60px;
+        overflow: hidden;
+    }
+    .requestService-section .border-button
+    {
+        float: unset;
+    }
+    .requestService-section .border-button a:before
+    {
+        height:35px;
+        top: 8px;
+    }
+    .service-row p 
+    {
+        font-size: 16px;
+    }
+    .logos-item img 
+    {
+        max-width: 128px;
+        margin-right: 25px;
+    }
+    .testimonial-column
+    {
+        padding: 22px;
+    }
+    .testimonial-body p
+    {
+        font-size: 16px;
+    }
+    section.industry-section
+    {
+        padding:39px 0 36px;
+    }
+    section.industry-section .service-row p
+    {
+        margin-bottom:0px;
+    }
+    .industry-box 
+    {
+        margin: 0px 0 16px;
+    }
+    .industry-buttons .button
+    {
+        padding:7px 18px;
+    }
+    .industry-buttons .button 
+    {
+        margin-right: 7px;
+    }
+    .industry-content h4 
+    {
+        font-size: 24px;
+    }
+    .custom-banner
+    {
+        padding:50px 20px 67px;
+    }
+    .cta-banner-content
+    {
+        position: relative;
+        z-index: 1;
+    }
+    .cta-banner-content h5
+    {
+        font-size: 21px;
+    }
+    .cta-banner-image img
+    {
+        position: relative;
+        max-width: 250px;
+        top:-17px;
+        left: 40px;
+        transform: none;
+    }
+    .cta-banner2
+    {
+        padding-top:0px;
+        padding-bottom: 50px;
+    }
+    .cta-banner2 .border-button a:before 
+    {
+        height: 35px;
+    }
+    .glow
+    {
+        display: none;        
+    }
+    .glow1
+    {
+        display: none;        
+    }
+    .glow3
+    {
+        display: none;
+    }
+    .glow4
+    {
+        display: none;
+    }
+    .glow5
+    {
+        display: none;
+    }
+    .glow6
+    {
+        display: none;
+    }
+    .glow7
+    {
+        display: none;
+    }
+    .glow8
+    {
+        display: none;
+    }
+    .glow9
+    {
+        display: none;
+    }
+    .glow10
+    {
+        display: none;
+    }
+    .glow11
+    {
+        display: none;
+    }
+    .glow12
+    {
+        display: none;
+    }
+    .glow13
+    {
+        display: none;
+    }
+    section
+    {
+        padding:50px 0;
+    }
+    section.blog-section
+    {
+        padding-bottom:12px;
+    }
+    .blog-bar h6
+    {
+        font-size: 18px;
+    }
+    .blog-content h3 
+    {
+        font-size: 20px;
+    }
+    .blog-bar p
+    {
+        font-size: 16px;
+    }    
+    .blog-column.blog-columnsecond
+    {
+        margin:15px 0 15px;
+        padding:0px;
+    }
+    .blog-column.blog-columnthird
+    {
+        margin:15px 0 15px;
+        padding:0px;
+    }
+    .footer-logo
+    {
+        margin-bottom:34px;
+    }
+    .footer-logo h4
+    {
+        text-align: left;
+    }
+    .footer-logo p
+    {
+        text-align: left;
+    }
+    .mb-20 
+    {
+        margin-bottom: 30px;
+    }
+    .gamedevelopment-detail 
+    {
+        margin-top: 30px;
+    }
+    .gamedevelopment-img
+    {
+        width: fit-content;
+    }
+    .gamedevelopment-img img
+    {
+        margin: auto;
+        display: block;
+        width:100%;
+        height: 100%;
+    }
+    .lightgray-content 
+    {
+        width: 100%;
+    }
+    section.mobileservice-section
+    {
+        padding-bottom:50px;
+    }
+    .counter-icon img 
+    {
+        max-width: 50px;
+        min-width: 50px;
+        height: 50px;
+    }
+    .counter-detail .number
+    {
+        font-size: 40px;
+    }
+    .counter-detail .text
+    {
+        font-size: 18px;
+    }
+    .mt-20 
+    {
+        margin-top: 25px;
+    }
+    section.lightgray-section.lightgray-section2 
+    {
+        padding-top: 50px;
+    }
+    .lightgray-tab .nav-item
+    {
+        width: 100%;
+        margin-bottom:20px;
+    }
+    .lightgray-tab .nav-item:last-child
+    {
+        margin-bottom:0px;
+    }
+    .lightgray-tab .nav-item .nav-link
+    {
+        width: 100%;
+    }
+    section.lightgray-section
+    {
+        margin-top:0px;
+        padding-top:50px;
+        padding-bottom: 50px;
+    }
+    section.white-section .image img
+    {
+        width: 100%;
+        margin-bottom:50px;
+    }
+    .mt-10
+    {
+        margin: 0 0 40px 0;
+    }
+    .aisolution-column
+    {
+        margin: 0 20px;
+    }
+    .aisolution-secondcolumn
+    {
+        border-radius: 6px;
+        border-left:1px solid #ee0400;
+    }
+    .aisolution-thirdcolumn
+    {
+        border-radius: 6px;
+        border-left:1px solid #ee0400;
+    }
+    .aisolution-lastcolumn
+    {
+        border-radius: 6px;
+        border-left:1px solid #ee0400;
+    }
+    .service-row 
+    {
+        margin-bottom: 0px;
+    }
+    section.logos-section
+    {
+        padding-top:0px;
+        padding-bottom: 0;
+    }
+    .mobileservice-lists
+    {
+        margin-top:47px;
+    }
+    section.lightgray-section .border-button
+    {
+        margin-bottom:56px;
+    }
+    section.black-section
+    {
+        padding-top: 65px;
+        padding-bottom: 40px;
+    }
+    section.black-section     .border-button 
+    {
+        margin-left: 0;
+        margin-bottom: 43px;
+    }
+}
